@@ -37,6 +37,7 @@
     "website": "9-19j-cognitive-behavioral-genetics-spring-2001"
   },
   "course_title": "Cognitive & Behavioral Genetics",
+  "hide_download": true,
   "course_description": "How genetics can add to our understanding of cognition, language, emotion, personality, and behavior. Use of gene mapping to estimate risk factors for psychological disorders and variation in behavioral and personality traits. Mendelian genetics, genetic mapping techniques, and statistical analysis of large populations and their application to particular studies in behavioral genetics. Topics also include environmental influence on genetic programs, evolutionary genetics, and the larger scientific, social, ethical, and philosophical implications.\n",
   "department_numbers": [
     "9",
@@ -48,6 +49,7 @@
     "content": "be3a17d9-a462-b5d4-1be6-176775575a8a",
     "website": "9-19j-cognitive-behavioral-genetics-spring-2001"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
